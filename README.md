@@ -1,7 +1,7 @@
 # Nama Proyek
 
 ## Deskripsi
-Proyek ini adalah... [deskripsi singkat 1-2 kalimat]
+Proyek ini merupakan kegiatan yang dilaksanakan oleh disdik sulawesi selatan. Dimana setiap 1 sekolah diutus 1 siswa untuk mengikuti kelas programing sesuai dengan bobot masing masing.
 
 ## Screenshot
 ![Screenshot aplikasi](/path/ke/screenshot.png)
@@ -24,7 +24,7 @@ cd nama-repo
 - JavaScript
 
 ## Kontributor
-- [Namamu](https://github.com/username)
+- MUH. Naufal Wildhani (https://github.com/nopaLw)
 ```
 
 ### Tips Membuat README Menarik
@@ -47,69 +47,7 @@ cd nama-repo
 
 5. **Tambahkan Informasi Kontak**
    - Bagaimana orang bisa menghubungimu?
-   - Email, sosial media profesional
-
-### Contoh README Lengkap
-
-```markdown
-# 📚 Sistem Perpustakaan Digital SMA
-
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Status](https://img.shields.io/badge/status-development-orange)
-
-## 📋 Daftar Isi
-- [Deskripsi](#deskripsi)
-- [Screenshot](#screenshot)
-- [Fitur](#fitur)
-- [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
-- [Teknologi](#teknologi)
-- [Kontributor](#kontributor)
-- [Lisensi](#lisensi)
-
-## 📝 Deskripsi
-Sistem Perpustakaan Digital SMA adalah aplikasi web untuk mengelola peminjaman buku di perpustakaan sekolah. Aplikasi ini memudahkan siswa mencari buku dan petugas perpustakaan melacak peminjaman.
-
-## 📸 Screenshot
-![Halaman Utama](images/homepage.png)
-![Dashboard Admin](images/admin-dashboard.png)
-
-## ✨ Fitur
-- 🔍 Pencarian buku berdasarkan judul, penulis, atau kategori
-- 📱 Responsive design untuk desktop dan mobile
-- 📊 Dashboard admin untuk melihat statistik
-- 📆 Sistem reminder untuk pengembalian buku
-- 🌙 Mode gelap / terang
-
-## 🛠️ Instalasi
-```bash
-# Clone repository
-git clone https://github.com/username/perpustakaan-digital.git
-
-# Masuk ke direktori
-cd perpustakaan-digital
-
-# Buka file index.html di browser
-```
-
-## 🖥️ Penggunaan
-1. Login dengan akun siswa atau admin
-2. Cari buku dengan fitur pencarian
-3. Klik "Pinjam" pada buku yang ingin dipinjam
-4. Lihat status peminjaman di halaman "Buku Saya"
-
-## 💻 Teknologi
-- HTML5
-- CSS3
-- JavaScript
-- LocalStorage untuk menyimpan data
-
-## 👥 Kontributor
-- Muh. Naufal Wildhani(https://github.com/nopaLw) - Developer & Desainer
-
-## 📄 Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
----
+   - mnaufalwjensu@gmail.com
+   -ig:nopal_wldn
 
 Dibuat dengan ❤️ pada program 1 Sekolah 1 Programmer
